@@ -72,9 +72,8 @@ document.addEventListener("DOMContentLoaded", () => {
         .querySelector(".menu__secondary-list")
         .classList.add(MENU_SHOW_CLASS);
 
-    [...parentList.querySelectorAll(".secondary-list__item")][0].classList.add(
-      "is-hovered"
-    );
+    const firstItem = parentList.querySelector(".secondary-list__item");
+    firstItem && firstItem.classList.add(HOVER_CLASS);
   };
 
   const setVisibleMenuByPrimaryBlock = selector => {
