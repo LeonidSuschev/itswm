@@ -1,0 +1,60 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="365"
+  height="314"
+  viewBox="0 0 730 628"
+>
+  <g>
+    <g>
+      <text
+        dominant-baseline="text-before-edge"
+        style="text-transform:uppercase"
+        fill="var(--gray-lightest)"
+        font-family="'Vogue Highline Serif','VogueHighlineSerif-Medium'"
+        font-size="113.24"
+        transform="translate(494 210)"
+      >
+        <tspan style="font-kerning:normal" letter-spacing="2.83">ы</tspan>
+      </text>
+      <g>
+        <text
+          dominant-baseline="text-before-edge"
+          style="text-transform:uppercase"
+          fill="var(--gray-lightest)"
+          font-family="'Vogue Highline Serif','VogueHighlineSerif-Medium'"
+          font-size="241.01"
+        >
+          <tspan style="font-kerning:normal" letter-spacing="6.03">м</tspan>
+        </text>
+      </g>
+      <text
+        dominant-baseline="text-before-edge"
+        style="text-transform:uppercase"
+        fill="var(--gray-lightest)"
+        font-family="'Vogue Highline Serif','VogueHighlineSerif-Medium'"
+        font-size="25.59"
+        transform="translate(179)"
+      >
+        <tspan style="font-kerning:normal" letter-spacing=".64">
+          ЧТО
+        </tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <text
+          dominant-baseline="text-before-edge"
+          style="text-transform:uppercase"
+          fill="var(--brown-dark)"
+          font-family="'Vogue Highline Serif','VogueHighlineSerif-Medium'"
+          font-size="68.38"
+          transform="translate(1 483)"
+        >
+          <tspan style="font-kerning:normal" letter-spacing="1.71">
+            ДЕЛАЕМ
+          </tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

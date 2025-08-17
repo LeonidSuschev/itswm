@@ -1,0 +1,133 @@
+@font-face {
+  font-family: "Avenir-Book";
+  src: url("../fonts/Avenir-Book.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body,
+html {
+  font-family: "Avenir-Book";
+  min-height: 100vh;
+}
+
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url("../images/Bag.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  padding: 6% 0;
+}
+
+.wrap {
+  height: auto;
+  background-color: rgba(0, 15, 14, 0.58);
+}
+
+.inner {
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logo-container {
+  max-width: 750px;
+  padding: 100px 0;
+  width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .logo-container {
+    padding: 40px 0;
+  }
+}
+
+.logo {
+  max-width: 100%;
+  display: block;
+}
+
+h2 {
+  font-size: 25px;
+  color: #ffffff;
+  letter-spacing: 2.5px;
+  padding-bottom: 45px;
+  text-transform: uppercase;
+  font-weight: 100;
+}
+
+@media screen and (max-width: 768px) {
+  h2 {
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 20px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+  }
+}
+
+h3 {
+  font-size: 21px;
+  color: #ffffff;
+  text-align: center;
+  font-weight: 100;
+}
+
+@media screen and (max-width: 768px) {
+  h3 {
+    font-size: 14px;
+    padding-left: 20px;
+  }
+}
+
+.addresses {
+  margin-bottom: 45px;
+}
+
+.address {
+  display: flex;
+  color: #ffffff;
+  text-transform: uppercase;
+  text-align: left;
+  line-height: 1.5;
+}
+
+@media screen and (max-width: 768px) {
+  .address {
+    flex-direction: column;
+    margin-bottom: 40px;
+  }
+}
+
+.address-country {
+  flex: 1;
+}
+
+.address-info {
+  flex: 2;
+  font-size: 18px;
+  padding-left: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .address-info {
+    margin-top: 12px;
+    font-size: 11px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .address-info {
+    margin-top: 0;
+    border-left: 4px solid #ffffff;
+  }
+  .address:not(:last-child) .address-info {
+    padding-bottom: 35px;    
+  }
+}
+

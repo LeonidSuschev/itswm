@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 16.3.1//EN
+N:Salikov;Timur;;;
+FN:Timur Salikov
+ORG:ITS WM;
+TITLE:Senior Partner
+item1.EMAIL;type=INTERNET;type=pref:ts@itswm.com
+item1.X-ABLabel:work mail
+item2.TEL;type=pref:+41 55 588 01 36
+item2.X-ABLabel:Telephone
+item3.TEL:778
+item3.X-ABLabel:Extension
+item4.URL;type=pref:www.itswm.com
+item4.X-ABLabel:Web-site
+END:VCARD

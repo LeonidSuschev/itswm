@@ -1,0 +1,13 @@
+/* Copyright (c) 2012 by Letterhead Studio. All rights reserved. */
+
+@font-face {
+  font-family: "Vogue Highline Serif";
+  src: url("VogueHighlineSerif-Medium.eot");
+  src: url("VogueHighlineSerif-Medium.eot?#iefix") format("embedded-opentype"),
+    url("VogueHighlineSerif-Medium.woff2") format("woff2"),
+    url("VogueHighlineSerif-Medium.woff") format("woff"),
+    url("VogueHighlineSerif-Medium.svg#VogueHighlineSerif-Medium") format("svg");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}

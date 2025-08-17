@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 16.3.1//RU
+N:Дроздова;Екатерина;;;
+FN:Екатерина Дроздова
+ORG:ITS WM;
+TITLE:Советник
+item1.EMAIL;type=INTERNET;type=pref:ed@itswm.com
+item1.X-ABLabel:E-mail
+item2.TEL;type=pref:+7 495 777 19 87
+item2.X-ABLabel:Telephone
+item3.TEL:738
+item3.X-ABLabel:Extension
+item4.TEL:+7 915 407 19 28
+item4.X-ABLabel:Mobile
+item5.URL;type=pref:www.itswm.com
+item5.X-ABLabel:Web-site
+END:VCARD

@@ -1,0 +1,69 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3953839, 2020-09-29T11:20:35-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: Muller-Bold by Fontfabric
+ * URL: https://www.myfonts.com/fonts/font-fabric/muller/bold/
+ * Copyright: Copyright &amp;#x00A9; 2014 by Fontfabric. All rights reserved.
+ *
+ * Webfont: Muller-ExtraBold by Fontfabric
+ * URL: https://www.myfonts.com/fonts/font-fabric/muller/extra-bold/
+ * Copyright: Copyright (c) 2015 by Fontfabric LLC. All rights reserved.
+ *
+ * Webfont: Muller-Medium by Fontfabric
+ * URL: https://www.myfonts.com/fonts/font-fabric/muller/medium/
+ * Copyright: Copyright (c) 2015 by Fontfabric LLC. All rights reserved.
+ *
+ * Webfont: Muller-Regular by Fontfabric
+ * URL: https://www.myfonts.com/fonts/font-fabric/muller/regular/
+ * Copyright: Copyright (c) 2015 by Fontfabric LLC. All rights reserved.
+ *
+ *
+ *
+ * © 2020 MyFonts Inc
+*/
+
+/* @import must be at top of file, otherwise CSS will not work */
+/* @import url("//hello.myfonts.net/count/3c54af"); */
+
+@font-face {
+  font-family: "Muller";
+  src: local("Muller Regular"), local("MullerRegular"),
+    url("webFonts/Muller-Regular/font.woff2") format("woff2"),
+    url("webFonts/Muller-Regular/font.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Muller";
+  src: local("Muller Medium"), local("MullerMedium"),
+    url("webFonts/Muller-Medium/font.woff2") format("woff2"),
+    url("webFonts/Muller-Medium/font.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Muller";
+  src: url("webFonts/Muller-ExtraBold/font.woff2") format("woff2"),
+    url("webFonts/Muller-ExtraBold/font.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Muller";
+  src: local("Muller Bold"), local("MullerBold"),
+    url("webFonts/Muller-Bold/font.woff2") format("woff2"),
+    url("webFonts/Muller-Bold/font.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}

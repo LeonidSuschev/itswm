@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="1080" viewBox="0 0 640 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: var(--blue-light);
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Compound_Shape" data-name="Compound Shape" class="cls-1" d="M0,4320H640V5400H0V4320Zm640.01,590V4809.99L590,4859.88Z" transform="translate(0 -4320)"/>
+</svg>

@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'Avenir-Book';
+  src: url('../fonts/Avenir-Book.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-BookOblique';
+  src: url('../fonts/Avenir-BookOblique.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-Heavy';
+  src: url('../fonts/Avenir-Heavy.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-HeavyOblique';
+  src: url('../fonts/Avenir-HeavyOblique.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-Light';
+  src: url('../fonts/Avenir-Light.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-LightOblique';
+  src: url('../fonts/Avenir-LightOblique.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-Medium';
+  src: url('../fonts/Avenir-Medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-MediumOblique';
+  src: url('../fonts/Avenir-MediumOblique.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-Oblique';
+  src: url('../fonts/Avenir-Oblique.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-Roman';
+  src: url('../fonts/Avenir-Roman.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

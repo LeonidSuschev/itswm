@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 16.3.1//EN
+N:Kozina;Olga;;;
+FN:Olga Kozina
+ORG:ITS WM;
+TITLE:Project Manager | Multi-Family Office
+item1.EMAIL;type=INTERNET;type=pref:ok@itswm.com
+item1.X-ABLabel:work mail
+item2.TEL;type=pref:+7 495 777 19 87
+item2.X-ABLabel:Telephone
+item3.TEL:749
+item3.X-ABLabel:Extension
+item4.TEL:+7 916 779 63 04
+item4.X-ABLabel:Mobile
+item5.URL;type=pref:www.itswm.com
+item5.X-ABLabel:Web-site
+END:VCARD

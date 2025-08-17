@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 16.3.1//RU
+N:Попова;Екатерина;;;
+FN:Екатерина Попова
+ORG:ITS WM;
+TITLE:Исполнительный директор | Multi-Family Office
+item1.EMAIL;type=INTERNET;type=pref:ep@itswm.com
+item1.X-ABLabel:work mail
+item2.TEL;type=pref:+7 495 777 19 87
+item2.X-ABLabel:Telephone
+item3.TEL:744
+item3.X-ABLabel:Extension
+item4.TEL:+971 56 169 37 50
+item4.X-ABLabel:Mobile
+item5.URL;type=pref:www.itswm.com
+item5.X-ABLabel:Web-site
+END:VCARD

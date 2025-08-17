@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "TwentyOneCent";
+  src: url("Cent21-Regular.eot");
+  src: local("21 Cent"), local("21Cent"), local("TwentyOneCent"),
+    url("Cent21-Regular.eot?#iefix") format("embedded-opentype"),
+    url("Cent21-Regular.woff") format("woff"),
+    url("Cent21-Regular.ttf") format("truetype"),
+    url("Cent21-Regular.svg#TwentyOneCent") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

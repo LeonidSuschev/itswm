@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 16.3.1//EN
+N:Nani;Lia;;;
+FN:Lia Nani
+ORG:ITS WM;
+TITLE:Associate | Multi-Family Office
+item1.EMAIL;type=INTERNET;type=pref:ln@itswm.com
+item1.X-ABLabel:E-mail
+item2.TEL;type=pref:+41 55 588 01 36
+item2.X-ABLabel:Telephone
+item3.TEL:732
+item3.X-ABLabel:Extension
+item4.TEL:+41 76 280 76 42
+item4.X-ABLabel:Mobile
+item5.URL;type=pref:www.itswm.com
+item5.X-ABLabel:Web-site
+END:VCARD
