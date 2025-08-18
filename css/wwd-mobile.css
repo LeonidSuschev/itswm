@@ -22,13 +22,13 @@
     left: auto;
     top: auto;
     width: 100%;
-    opacity: 0;
-    visibility: hidden;
+    display: block;
     overflow: hidden;
     max-height: 0;
-    transition: max-height .3s ease, opacity .3s;
+    opacity: 0;
+    visibility: hidden;
+    transition: max-height .3s ease, opacity .3s ease;
   }
-
   .wwd-slide__text.visible {
     opacity: 1;
     visibility: visible;
