@@ -22,7 +22,7 @@
     left: auto;
     top: auto;
     width: 100%;
-    display: block;
+    display: none;
     opacity: 0;
     visibility: hidden;
     overflow: hidden;
@@ -30,6 +30,7 @@
     transition: max-height .3s ease, opacity .3s ease;
   }
   .wwd-slide__text.visible {
+    display: block;
     opacity: 1;
     visibility: visible;
   }
