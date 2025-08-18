@@ -26,7 +26,7 @@
     visibility: hidden;
     overflow: hidden;
     max-height: 0;
-    transition: max-height 0.3s ease;
+    transition: max-height .3s ease, opacity .3s;
   }
 
   .wwd-slide__text.visible {
