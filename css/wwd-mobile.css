@@ -18,8 +18,19 @@
     transform: translateY(-50%) rotate(-135deg);
   }
   .wwd-slide__text {
+    position: static;
+    left: auto;
+    top: auto;
+    width: 100%;
+    opacity: 0;
+    visibility: hidden;
     overflow: hidden;
     max-height: 0;
     transition: max-height 0.3s ease;
+  }
+
+  .wwd-slide__text.visible {
+    opacity: 1;
+    visibility: visible;
   }
 }
