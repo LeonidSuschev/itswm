@@ -1,5 +1,6 @@
 window.addEventListener("load", function() {
   if (document.querySelector(".wwd-slide") === null) return;
+  if (window.matchMedia("(max-width: 699px)").matches) return;
 
   let lines = [],
     arrows = [];
